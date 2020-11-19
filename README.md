@@ -1,2 +1,2 @@
 # linux
-A place for my linux settings and stuff 
+a place for my linux settings, dotfiles and stuff 
