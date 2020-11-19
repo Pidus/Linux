@@ -1,0 +1,4 @@
+#location: /usr/share/psd/browsers/
+
+DIRArr[0]="$XDG_CONFIG_HOME/$BraveSoftware"
+PSNAME="$brave"

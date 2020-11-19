@@ -1,0 +1,6 @@
+alias sudo='sudo -v; sudo '
+alias sduo='sudo -v; sudo '
+alias df='df -hT'
+alias apt='sudo apt'
+alias upd='pkcon update'
+alias mv='mv -i'
