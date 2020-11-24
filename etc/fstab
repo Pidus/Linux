@@ -8,8 +8,9 @@
 UUID=D281-0197                            /boot/efi      vfat    defaults,noatime 0 2
 UUID=690cc4ec-e7b1-4fbf-97c5-e5120963c42f /              ext4    defaults,noatime,commit=60 0 1
 
-#tmpfs for tmp
-tmpfs /tmp tmpfs noatime,nosuid,nodev,mode=1777,size=1024M 0 0
+#tmpfs
+tmpfs /tmp tmpfs noatime,nosuid,nodev,size=1G,mode=1777 0 0
+tmpfs /home/suha/.cache tmpfs noatime,nodev,nosuid,size=1G,mode=1777 0 0
 
 #Windows-Partition
 UUID=FEBCE055BCE00A4B /media/win ntfs rw,auto,users,exec,nls=utf8,umask=003,gid=46,uid=1000    0   0
