@@ -1,3 +1,0 @@
-
-export MOZ_USE_XINPUT2=1
-export MOZ_X11_EGL=1
