@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=phononsettings
+GenericName=Phonon Settings
+Icon=org.pulseaudio.pavucontrol
+Name=Phonon Settings
+NoDisplay=false
+OnlyShowIn=KDE;
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
